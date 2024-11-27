@@ -6,7 +6,7 @@ export default function Cv() {
         <h2 className="hidden print:block print:mb-2">강대현 Kang DaeHyun</h2>
         
         <p className="space-x-1.5 hidden print:block text-sm"><a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a></p>
-        <acticle className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip">
+        <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip">
 
         <h3>학력</h3>
         <p><strong><a href="https://hufs.ac.kr">한국외국어대학교</a> 공과대학 컴퓨터공학부 재학</strong>
@@ -81,7 +81,7 @@ export default function Cv() {
         <p><strong><a href="https://hufs.ac.kr/">2023 HUFSummer Hackathon</a></strong><span className="text-muted-foreground float-end text-right">2023.6</span><br/>
         우수상(3위)</p>
 
-          </acticle>
+          </article>
         </div>
       </>
   );
