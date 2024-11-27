@@ -1,7 +1,6 @@
 import localFont from "next/font/local";
 import Header from "./header";
 import Footer from "./footer";
-import Link from "next/link";
 import "./globals.css";
 
 export const metadata = {
