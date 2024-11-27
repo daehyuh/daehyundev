@@ -18,26 +18,9 @@ export default function HomePage() {
             >
               자세한 이력
             </a>
-            {/* <a
-              href="/projects"
-              className="text-blue-500 underline hover:text-blue-700"
-            >
-              프로젝트 보기
-            </a> */}
-            {/* <a
-              href="/contact"
-              className="text-blue-500 underline hover:text-blue-700"
-            >
-              연락처
-            </a> */}
           </div>
         </nav>
-  
-        {/* Footer */}
-        <footer className="mt-12 text-sm text-gray-500">
-          <p>© 2024 강대현. All Rights Reserved.</p>
-        </footer>
+
       </div>
     );
   }
-  
