@@ -73,7 +73,7 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2023.10</span><br/>
         Level 3(401점)</p>
         <p><strong><a href="https://www.q-net.or.kr/">정보처리산업기사</a></strong>
-        <span className="text-muted-foreground float-end text-right">2023.9</span><br/>
+        <span className="text-muted-foreground float-end text-right">2021.9</span><br/>
         과정평가형</p>
         <h3>수상</h3>
         <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon</a></strong><span className="text-muted-foreground float-end text-right">2024.6</span><br/>
