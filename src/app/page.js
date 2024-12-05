@@ -5,7 +5,7 @@ export default function HomePage() {
         <section className="text-center">
           <h1 className="text-4xl font-bold">강대현 (Kang Daehyun)</h1>
           <p className="text-lg mt-4">
-            안녕하세요! 저는 데이터 엔지니어이며, AI 및 데이터 관련 프로젝트에 열정을 가지고 있습니다.
+            안녕하세요! 개발자로써의 경험치를 쌓아가고있는 컴퓨터공학과 학생입니다.
           </p>
         </section>
   
