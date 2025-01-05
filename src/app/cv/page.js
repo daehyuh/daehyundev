@@ -2,10 +2,10 @@ export default function Cv() {
   return (
       <>
         <div className="w-full max-w-2xl print:max-w-full relative">
-        <h2 className="print:hidden">이력</h2>
+        <h2 className="print:hidden">공개 이력서</h2>
         <h2 className="hidden print:block print:mb-2">강대현 Kang DaeHyun</h2>
         
-        <p className="space-x-1.5 hidden print:block text-sm"><a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a></p>
+        <p className="space-x-1.5 print:block text-sm"><a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a></p>
         <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip">
 
         <h3>학력</h3>
