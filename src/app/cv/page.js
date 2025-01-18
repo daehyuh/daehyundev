@@ -65,7 +65,7 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12<br></br>과학기술정보통신부</span><br/>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup></p>
         <ul>
-        <li>프로젝트 매니저 및 백엔드 API 개발
+        <li>프로젝트 매니저 및 백엔드 API 설계
         <span className="text-[75%] block font-semibold">Kotlin, Gradle, Spring boot, MariaDB, Redis, JPA, Spring Security, Docker</span></li>
         <li>서비스 서버 구축 및 유지보수
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
