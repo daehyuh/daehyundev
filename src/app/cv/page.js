@@ -33,7 +33,7 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
         인공지능부
         </p>
-        <a href="https://www.nipa.kr/home/2-2/15759">[2021~2023] AI 바우처 지원사업</a> - <span>멀티모달 인공지능 학습 데이터 구축업무 </span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
+        <a href="https://www.nipa.kr/home/2-2/15759">[2021~2023] AI 바우처 지원사업</a> - <span>멀티모달 인공지능 학습 데이터 구축 프로젝트 </span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
           <ul>
           <li> 4K Stereo Camera, 2D Lidar, Gyroscope, Magnetometer 센서 실시간 병렬 처리 및 데이터 저장 시스템 설계 및 개발
           <span className="text-[75%] block font-semibold">Python, OpenCV, Numpy, Linux/Ubuntu</span></li>
@@ -71,15 +71,14 @@ export default function Cv() {
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
         </ul>
         
-        
-
         <h3>수상 이력</h3>
         <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2024.06<br></br>한국외국어대학교 총장상</span><br/>
-        한국외국어대학교, AI교육원</p>
+        <a href="https://github.com/HUFamilyS">HUFamilyS(한식구)</a> - 한사람의 건강식품 공동구매 서비스 <sup><a href="https://github.com/HUFamilyS">GitHub</a></sup></p>
+        
         <p><strong><a href="https://hufs.ac.kr/">2023 HUFSummer Hackathon 3위</a></strong>
         <span className="text-muted-foreground float-end text-right">2023.06<br></br>한국외국어대학교 공과대학장상</span><br/>
-        한국외국어대학교, AI교육원</p>
+        <a href="https://github.com/HUFSLaundry">HUFSLaundry</a> - 한국외대 기숙사 세탁기 관리 서비스 <sup><a href="https://github.com/HUFSLaundry">GitHub</a></sup></p>
         <p><strong><a href="https://hanyang.sen.hs.kr/">컴퓨터네트워크과 소프트웨어 공모전 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2022.07</span><br/>
         한양공업고등학교</p>
