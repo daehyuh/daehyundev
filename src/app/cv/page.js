@@ -33,12 +33,11 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
         인공지능부
         </p>
-        <a href="https://www.nipa.kr/home/bsnsAll/0/nttDetail?tab=1&bbsNo=4&bsnsDtlsIemNo=&nttNo=12064">AI 바우처 지원사업</a><br></br>
-        <span>멀티모달 인공지능 학습 데이터 구축업무</span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
+        <a href="https://www.nipa.kr/home/2-2/15759">[2021~2023] AI 바우처 지원사업</a> - <span>멀티모달 인공지능 학습 데이터 구축업무 </span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
           <ul>
           <li> 4K Stereo Camera, 2D Lidar, Gyroscope, Magnetometer 센서 실시간 병렬 처리 및 데이터 저장 시스템 설계 및 개발
           <span className="text-[75%] block font-semibold">Python, OpenCV, Numpy, Linux/Ubuntu</span></li>
-          <li>학습데이터 수집 및 데이터라벨링 작업
+          <li> 학습데이터 수집 및 데이터라벨링 작업/관리
           <span className="text-[75%] block font-semibold">수집 데이터: 600K<span className="text-decoration"></span></span>
           <span className="text-[75%] block font-semibold">라벨링 데이터: 110K<span className="text-decoration"></span></span></li>
           </ul>
