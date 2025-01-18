@@ -33,7 +33,8 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
         AI 팀
         </p>
-        <span>멀티모달 인공지능 학습 데이터 구축업무</span>
+        <a href="https://www.nipa.kr/home/bsnsAll/0/nttDetail?tab=1&bbsNo=4&bsnsDtlsIemNo=&nttNo=12064">AI 바우처 지원사업</a><br></br>
+        <span>멀티모달 인공지능 학습 데이터 구축업무</span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
           <ul>
           <li> 4K Stereo Camera, 2D Lidar, Gyroscope, Magnetometer 센서 실시간 병렬 처리 및 데이터 저장 시스템 설계 및 개발
           <span className="text-[75%] block font-semibold">Python, OpenCV, Numpy, Linux/Ubuntu</span></li>
@@ -46,23 +47,22 @@ export default function Cv() {
         <p><strong><a href="http://www.대현.com/">대현닷컴</a> - 게임 마피아42 편리 기능 서비스 </strong> <sup><a href="https://github.com/daehyun-project">GitHub</a></sup>
         <span className="text-muted-foreground float-end text-right">2020.4 - 현재</span>
         <ul>
-          <li>MAU(Monthly active users) 3.6K 이상의 실제운영 서비스
+          <li>MAU(Monthly active users) 3.6K 이상, 서드파티 서비스 운영
           <span className="text-[75%] block font-semibold">React, Vite, Python, FastAPI, Mysql<span className="text-decoration"></span></span>
           </li>
           </ul>
         </p>
 
-
         <h3>교육</h3>
-        <p><strong><a href="collecti.me">WhiteHat School</a> 제2기 교육생</strong>
-        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11</span><br/></p>
-        <a href="https://collecti.me">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
+        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">[정보보안인재 과정] 화이트햇 스쿨</a> 2기 교육생</strong>
+        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
+        <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
         <ul>
-        <li>Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
+        <li>프로젝트 포도청 Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
         <span className="text-[75%] block font-semibold">OSINT, Python, Data Analyst, Web, Docker</span></li>
         </ul>
-        <p><strong><a href="https://swmaestro.org/sw/main/main.do">소프트웨어 마에스트로</a> 제14기 연수생</strong>
-        <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12</span><br/>
+        <p><strong><a href="https://swmaestro.org/sw/main/main.do">[최고급 IT인재 과정] 소프트웨어 마에스트로</a> 14기 연수생</strong>
+        <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12<br></br>과학기술정보통신부</span><br/>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup></p>
         <ul>
         <li>프로젝트 매니저 및 백엔드 API 개발
@@ -70,14 +70,14 @@ export default function Cv() {
         <li>서비스 서버 구축 및 유지보수
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
         </ul>
-
+        
         <h3>자격, 인증</h3>
         <p><strong><a href="https://www.topcit.or.kr/">TOPCIT</a></strong>
         <span className="text-muted-foreground float-end text-right">2023.10</span><br/>
         Level 3(401점)</p>
         <p><strong><a href="https://www.q-net.or.kr/">정보처리산업기사</a></strong>
-        <span className="text-muted-foreground float-end text-right">2023.09</span><br/>
-        과정평가형</p>
+        <span className="text-muted-foreground float-end text-right">2022.09</span><br/>
+        과정평가형자격</p>
         <h3>수상</h3>
         <p><strong><a href="https://hufs.ac.kr/">HUFSummer Hackathon 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2024.06</span><br/>
@@ -100,7 +100,6 @@ export default function Cv() {
         <p><strong><a href="https://hanyang.sen.hs.kr/">컴퓨터네트워크과 소프트웨어 공모전 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2020.08</span><br/>
         한양공업고등학교</p>
-
           </article>
         </div>
       </>
