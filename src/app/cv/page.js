@@ -31,7 +31,7 @@ export default function Cv() {
           
         <p><strong><a href="http://www.vitasoft.co.kr/">(주)비타소프트</a> 연구원</strong>
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
-        AI 팀
+        AI Team
         </p>
         <a href="https://www.nipa.kr/home/bsnsAll/0/nttDetail?tab=1&bbsNo=4&bsnsDtlsIemNo=&nttNo=12064">AI 바우처 지원사업</a><br></br>
         <span>멀티모달 인공지능 학습 데이터 구축업무</span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
