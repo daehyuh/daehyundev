@@ -18,7 +18,7 @@ export default function Cv() {
         <p><strong><a href="https://hanyang.sen.hs.kr/">한양공업고등학교</a> 컴퓨터네트워크과 졸업</strong>
         <span className="text-muted-foreground float-end text-right">2019.3 - 2023.1<br></br>서울 중구</span>
         <br/>
-        <span className="text-muted-foreground">특별 입학, 공로 졸업</span></p>
+        <span className="text-muted-foreground">특별전형 입학, 공로 졸업</span></p>
 
         <h3>경력</h3>
         <p><strong><a href="https://collecti.me">쓰리이디엇츠</a> 대표</strong>
