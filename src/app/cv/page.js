@@ -8,7 +8,7 @@ export default function Cv() {
         <p className="space-x-1.5 print:block text-sm"><a href="map:서울 경기도 광주시">경기도 광주시</a>
         <a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a>
         <a href="tel:010-3822-2413">010-3822-2413</a></p>
-        <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip">
+        <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip mb-0">
 
         <h3>학력</h3>
         <p><strong><a href="https://hufs.ac.kr">한국외국어대학교</a> 공과대학 컴퓨터공학부 재학</strong>
@@ -83,7 +83,7 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2024.06<br></br>한국외국어대학교 총장상</span><br/>
         한국외국어대학교, AI교육원</p>
         <p><strong><a href="https://hufs.ac.kr/">2023 HUFSummer Hackathon 3위</a></strong>
-        <span className="text-muted-foreground float-end text-right">2023.06<br></br>공과대학장상</span><br/>
+        <span className="text-muted-foreground float-end text-right">2023.06<br></br>한국외국어대학교 공과대학장상</span><br/>
         한국외국어대학교, AI교육원</p>
         <p><strong><a href="https://hanyang.sen.hs.kr/">컴퓨터네트워크과 소프트웨어 공모전 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2022.07</span><br/>
