@@ -46,7 +46,7 @@ export default function Cv() {
         <p><strong><a href="http://www.대현.com/">대현닷컴</a> - 게임 마피아42 편리 기능 서비스 </strong> <sup><a href="https://github.com/daehyun-project">GitHub</a></sup>
         <span className="text-muted-foreground float-end text-right">2020.4 - 현재</span>
         <ul>
-          <li>MAU(Monthly active users) 3.6K 이상의 트래픽의 실제운영 서비스
+          <li>MAU(Monthly active users) 3.6K 이상의 실제운영 서비스
           <span className="text-[75%] block font-semibold">React, Vite, Python, FastAPI, Mysql<span className="text-decoration"></span></span>
           </li>
           </ul>
