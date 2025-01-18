@@ -2,10 +2,10 @@ export default function Cv() {
   return (
       <>
         <div className="w-full max-w-2xl print:max-w-full relative">
-        <h2 className="print:hidden">공개 이력서</h2>
-        <h1 className="hidden print:block print:mb-2">강대현</h1>
-        <h4 className="hidden print:block print:mb-2">한국외대 컴퓨터공학부 23학번<br></br>2004.03.18</h4>
-        <p className="space-x-1.5 print:block text-sm"><a href="map:서울 경기도 광주시">경기도 광주시</a>
+        <h1 className="print:block print:mb-2">강대현</h1>
+        <h4 className="hidden print:block print:mb-2">2004.03.18<br></br>한국외국어대학교 컴퓨터공학부 23학번</h4>
+        <p className="hidden print:block space-x-1.5 print:block text-sm">
+        <a href="map:서울 경기도 광주시">경기도 광주시</a>
         <a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a>
         <a href="tel:010-3822-2413">010-3822-2413</a></p>
         <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip mb-0">
@@ -31,7 +31,7 @@ export default function Cv() {
           
         <p><strong><a href="http://www.vitasoft.co.kr/">(주)비타소프트</a> 연구원</strong>
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
-        AI Team
+        인공지능부
         </p>
         <a href="https://www.nipa.kr/home/bsnsAll/0/nttDetail?tab=1&bbsNo=4&bsnsDtlsIemNo=&nttNo=12064">AI 바우처 지원사업</a><br></br>
         <span>멀티모달 인공지능 학습 데이터 구축업무</span><sup><a href="https://github.com/daehyuh/PatrascheProject">GitHub</a></sup>
