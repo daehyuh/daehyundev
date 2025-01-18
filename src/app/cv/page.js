@@ -52,8 +52,8 @@ export default function Cv() {
           </li>
           </ul>
         </p>
-
-        <h3>교육</h3>
+      
+        <h3>연수 이력</h3>
         <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">[정보보안인재 과정] 화이트햇 스쿨</a> 2기 교육생</strong>
         <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
         <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
@@ -71,14 +71,15 @@ export default function Cv() {
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
         </ul>
         
-        <h3>자격, 인증</h3>
+        <h3>자격/인증</h3>
         <p><strong><a href="https://www.topcit.or.kr/">TOPCIT</a></strong>
         <span className="text-muted-foreground float-end text-right">2023.10</span><br/>
         Level 3(401점)</p>
         <p><strong><a href="https://www.q-net.or.kr/">정보처리산업기사</a></strong>
         <span className="text-muted-foreground float-end text-right">2022.09</span><br/>
         과정평가형자격</p>
-        <h3>수상</h3>
+
+        <h3>수상 이력</h3>
         <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2024.06<br></br>한국외국어대학교 총장상</span><br/>
         한국외국어대학교, AI교육원</p>
