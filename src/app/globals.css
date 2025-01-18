@@ -37,10 +37,12 @@ h3{
     font-size: 1.25rem;
     font-weight: 600;
     line-height: 1.75rem;
-    margin-top: 2.25rem;
-    margin-bottom: 0.5rem;
+    margin-top: 2.00rem;
+    margin-bottom: 0.7rem;
     /* 밑줄  */
     border-bottom: 1px solid hsl(var(--muted-foreground));
+    /* 중간정ㄴ렬 */
+    text-align: center;
 }
 
 p{

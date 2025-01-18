@@ -2,9 +2,9 @@ export default function Cv() {
   return (
       <>
         <div className="w-full max-w-2xl print:max-w-full relative">
-        <h1 className="print:block print:mb-2">강대현</h1>
-        <h4 className="hidden print:block print:mb-2">2004.03.18<br></br>한국외국어대학교 컴퓨터공학부 23학번</h4>
-        <p className="hidden print:block space-x-1.5 print:block text-sm">
+        <h1 className="text-center print:block print:mb-2">강대현</h1>
+        <h4 className="text-center hidden print:block print:mb-2">2004.03.18<br></br>한국외국어대학교 컴퓨터공학부 23학번</h4>
+        <p className="text-center hidden print:block space-x-1.5 print:block text-sm">
         <a href="map:서울 경기도 광주시">경기도 광주시</a>
         <a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a>
         <a href="tel:010-3822-2413">010-3822-2413</a></p>
@@ -42,17 +42,18 @@ export default function Cv() {
           <span className="text-[75%] block font-semibold">라벨링 데이터: 110K<span className="text-decoration"></span></span></li>
           </ul>
 
-        <h3>개인 프로젝트</h3>
-        <p><strong><a href="http://www.대현.com/">대현닷컴</a> - 게임 마피아42 편리 기능 서비스 </strong> <sup><a href="https://github.com/daehyun-project">GitHub</a></sup>
-        <span className="text-muted-foreground float-end text-right">2020.4 - 현재</span>
-        <ul>
-          <li>MAU(Monthly active users) 3.6K 이상, 서드파티 서비스 운영
-          <span className="text-[75%] block font-semibold">React, Vite, Python, FastAPI, Mysql<span className="text-decoration"></span></span>
-          </li>
-          </ul>
-        </p>
-      
-        <h3>연수 이력</h3>
+        <h3>자격/인증</h3>
+        <p><strong><a href="https://www.topcit.or.kr/">TOPCIT</a></strong>
+        <span className="text-muted-foreground float-end text-right">2023.10</span><br/>
+        Level 3(401점)</p>
+        <p><strong><a href="https://www.q-net.or.kr/">정보처리산업기사</a></strong>
+        <span className="text-muted-foreground float-end text-right">2022.09</span><br/>
+        과정평가형자격</p>
+        
+        <br></br>
+        <br></br>
+
+        <h3>연수/교육 이력</h3>
         <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">[정보보안인재 과정] 화이트햇 스쿨</a> 2기 교육생</strong>
         <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
         <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
@@ -70,13 +71,7 @@ export default function Cv() {
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
         </ul>
         
-        <h3>자격/인증</h3>
-        <p><strong><a href="https://www.topcit.or.kr/">TOPCIT</a></strong>
-        <span className="text-muted-foreground float-end text-right">2023.10</span><br/>
-        Level 3(401점)</p>
-        <p><strong><a href="https://www.q-net.or.kr/">정보처리산업기사</a></strong>
-        <span className="text-muted-foreground float-end text-right">2022.09</span><br/>
-        과정평가형자격</p>
+        
 
         <h3>수상 이력</h3>
         <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon 1위</a></strong>
@@ -100,6 +95,15 @@ export default function Cv() {
         <p><strong><a href="https://hanyang.sen.hs.kr/">컴퓨터네트워크과 소프트웨어 공모전 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2020.08</span><br/>
         한양공업고등학교</p>
+        <h3>개인 프로젝트</h3>
+        <p><strong><a href="http://www.대현.com/">대현닷컴</a> - 게임 마피아42 편리 기능 서비스 </strong> <sup><a href="https://github.com/daehyun-project">GitHub</a></sup>
+        <span className="text-muted-foreground float-end text-right">2020.4 - 현재</span>
+        <ul>
+          <li>MAU(Monthly active users) 3.6K 이상, 서드파티 서비스 운영
+          <span className="text-[75%] block font-semibold">React, Vite, Python, FastAPI, Mysql<span className="text-decoration"></span></span>
+          </li>
+          </ul>
+        </p>
           </article>
         </div>
       </>
