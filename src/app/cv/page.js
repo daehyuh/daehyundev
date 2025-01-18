@@ -79,12 +79,12 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2022.09</span><br/>
         과정평가형자격</p>
         <h3>수상</h3>
-        <p><strong><a href="https://hufs.ac.kr/">HUFSummer Hackathon 1위</a></strong>
-        <span className="text-muted-foreground float-end text-right">2024.06</span><br/>
-        한국외국어대학교</p>
-        <p><strong><a href="https://hufs.ac.kr/">HUFSummer Hackathon 3위</a></strong>
-        <span className="text-muted-foreground float-end text-right">2023.06</span><br/>
-        한국외국어대학교</p>
+        <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon 1위</a></strong>
+        <span className="text-muted-foreground float-end text-right">2024.06<br></br>한국외국어대학교 총장상</span><br/>
+        한국외국어대학교, AI교육원</p>
+        <p><strong><a href="https://hufs.ac.kr/">2023 HUFSummer Hackathon 3위</a></strong>
+        <span className="text-muted-foreground float-end text-right">2023.06<br></br>공과대학장상</span><br/>
+        한국외국어대학교, AI교육원</p>
         <p><strong><a href="https://hanyang.sen.hs.kr/">컴퓨터네트워크과 소프트웨어 공모전 1위</a></strong>
         <span className="text-muted-foreground float-end text-right">2022.07</span><br/>
         한양공업고등학교</p>
