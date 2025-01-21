@@ -25,7 +25,7 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2023.8 - 2024.6<br></br>서울 송파구</span><br/></p>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup>
         <ul>
-        <li>프로젝트 유지보수
+        <li>서비스 유지보수
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, Oracle Cloude</span></li>
         </ul>
           
