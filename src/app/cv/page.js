@@ -54,14 +54,14 @@ export default function Cv() {
         <br></br>
 
         <h3>연수/교육 이력</h3>
-        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">[정보보안인재 과정] 화이트햇 스쿨</a> 2기 교육생</strong>
+        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">화이트햇 스쿨</a> 2기 교육생</strong>
         <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
         <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
         <ul>
         <li>프로젝트 포도청 Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
         <span className="text-[75%] block font-semibold">OSINT, Python, Data Analyst, Web, Docker</span></li>
         </ul>
-        <p><strong><a href="https://swmaestro.org/sw/main/main.do">[최고급 IT인재 과정] 소프트웨어 마에스트로</a> 14기 연수생</strong>
+        <p><strong><a href="https://swmaestro.org/sw/main/main.do">소프트웨어 마에스트로</a> 14기 연수생</strong>
         <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12<br></br>과학기술정보통신부</span><br/>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup></p>
         <ul>
