@@ -19,8 +19,18 @@ export default function Cv() {
         <span className="text-muted-foreground float-end text-right">2019.3 - 2023.1<br></br>서울 중구</span>
         <br/>
         <span className="text-muted-foreground">특별전형 입학, 공로 졸업</span></p>
-
+      
         <h3>경력</h3>
+      
+        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">화이트햇 스쿨</a> 2기</strong>
+        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
+        <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
+        <ul>
+        <li>프로젝트 포도청 Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
+        <span className="text-[75%] block font-semibold">OSINT, Python, Data Analyst, Web, Docker</span></li>
+        </ul>
+      
+      
         <p><strong><a href="https://collecti.me">쓰리이디엇츠</a> 대표</strong>
         <span className="text-muted-foreground float-end text-right">2023.8 - 2024.6<br></br>서울 송파구</span><br/></p>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup>
@@ -29,6 +39,18 @@ export default function Cv() {
         <span className="text-[75%] block font-semibold">Ubuntu, Nginx, Oracle Cloude</span></li>
         </ul>
           
+        <p><strong><a href="https://swmaestro.org/sw/main/main.do">소프트웨어 마에스트로</a> 14기</strong>
+        
+        <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12<br></br>과학기술정보통신부</span><br/>
+        <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup></p>
+        <ul>
+        <li>프로젝트 매니저 및 백엔드 API 설계
+        <span className="text-[75%] block font-semibold">Kotlin, Gradle, Spring boot, MariaDB, Redis, JPA, Spring Security, Docker</span></li>
+        <li>서비스 서버 구축 및 유지보수
+        <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
+        </ul>
+
+
         <p><strong><a href="http://www.vitasoft.co.kr/">(주)비타소프트</a> 연구원</strong>
         <span className="text-muted-foreground float-end text-right">2021.09 - 2023.01<br></br>서울 구로구</span><br/>
         인공지능부
@@ -38,9 +60,11 @@ export default function Cv() {
           <li> 4K Stereo Camera, 2D Lidar, Gyroscope, Magnetometer 센서 실시간 병렬 처리 및 데이터 저장 시스템 설계 및 개발
           <span className="text-[75%] block font-semibold">Python, OpenCV, Numpy, Linux/Ubuntu</span></li>
           <li> 학습데이터 수집 및 데이터라벨링 작업/관리
-          <span className="text-[75%] block font-semibold">수집 데이터: 600K<span className="text-decoration"></span></span>
-          <span className="text-[75%] block font-semibold">라벨링 데이터: 110K<span className="text-decoration"></span></span></li>
+          {/* <span className="text-[75%] block font-semibold">수집 데이터: 600K<span className="text-decoration"></span></span>
+          <span className="text-[75%] block font-semibold">라벨링 데이터: 110K<span className="text-decoration"></span></span> */}
+          </li>
           </ul>
+
 
         <h3>자격/인증</h3>
         <p><strong><a href="https://www.topcit.or.kr/">TOPCIT</a></strong>
@@ -53,23 +77,7 @@ export default function Cv() {
         <br></br>
         <br></br>
 
-        <h3>연수/교육 이력</h3>
-        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">화이트햇 스쿨</a> 2기 교육생</strong>
-        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
-        <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
-        <ul>
-        <li>프로젝트 포도청 Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
-        <span className="text-[75%] block font-semibold">OSINT, Python, Data Analyst, Web, Docker</span></li>
-        </ul>
-        <p><strong><a href="https://swmaestro.org/sw/main/main.do">소프트웨어 마에스트로</a> 14기 연수생</strong>
-        <span className="text-muted-foreground float-end text-right">2023.4 - 2023.12<br></br>과학기술정보통신부</span><br/>
-        <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup></p>
-        <ul>
-        <li>프로젝트 매니저 및 백엔드 API 설계
-        <span className="text-[75%] block font-semibold">Kotlin, Gradle, Spring boot, MariaDB, Redis, JPA, Spring Security, Docker</span></li>
-        <li>서비스 서버 구축 및 유지보수
-        <span className="text-[75%] block font-semibold">Ubuntu, Nginx, AWS, AWS S3, AWS Code Deploy, AWS ECR, Github Actions</span></li>
-        </ul>
+        {/* <h3>연수/교육 이력</h3> */}
         
         <h3>수상 이력</h3>
         <p><strong><a href="https://hufs.ac.kr/">2024 HUFSummer Hackathon 1위</a></strong>
