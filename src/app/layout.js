@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
       <title>대현데브</title>
       <meta property="og:title" content="대현데브"/>
       <meta property="og:description" content="대현데브" />
-      <meta property="og:url" content="https://yourwebsite.com"/>
+      <meta property="og:url" content="https://daehyun.dev"/>
       <meta property="og:type" content="website"/>
       </head>
 
