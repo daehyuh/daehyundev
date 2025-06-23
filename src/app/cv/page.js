@@ -20,7 +20,7 @@ export default function Cv() {
         <br/>
         <span className="text-muted-foreground">특별전형 입학, 공로 졸업</span></p>
       
-        <h3>경력</h3>
+        <h3>경험</h3>
 
 
         <p><strong><a href="https://www.kitribob.kr/">차세대 보안리더 양성 프로그램 - BOB</a> 14기</strong>
@@ -37,7 +37,7 @@ export default function Cv() {
       
       
         <p><strong><a href="https://collecti.me">쓰리이디엇츠</a> 대표</strong>
-        <span className="text-muted-foreground float-end text-right">2023.8 - 2024.6<br></br>서울 송파구</span><br/></p>
+        <span className="text-muted-foreground float-end text-right">2023.8 - 2024.6<br></br>개인 창업</span><br/></p>
         <a href="https://collecti.me">컬렉타임</a> - 최적의 모임 일정 조율 서비스 <sup><a href="https://github.com/swm-collectime">GitHub</a></sup>
         <ul>
         <li>서비스 유지보수
