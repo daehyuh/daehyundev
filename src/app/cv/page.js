@@ -9,7 +9,7 @@ export default function Cv() {
         <a href="mailto:rkdeown10@naver.com">rkdeown10@naver.com</a>
         <a href="tel:010-3822-2413">010-3822-2413</a></p>
         <article className="prose max-md:prose-sm prose-zinc dark:prose-invert my-8 min-w-full overflow-clip mb-0 space-y-6">
-
+        
         <h3>학력</h3>
         <p><strong><a href="https://hufs.ac.kr">한국외국어대학교</a> 공과대학 컴퓨터공학부 재학</strong>
         <span className="text-muted-foreground float-end text-right">2023.3 - 현재<br></br>경기도 용인시</span>
@@ -23,11 +23,11 @@ export default function Cv() {
         <h3>경력</h3>
 
 
-        <p><strong><a href="https://www.kitribob.kr/">차세대 보안리더 양성 프로그램 - BOB</a>14기</strong>
+        <p><strong><a href="https://www.kitribob.kr/">차세대 보안리더 양성 프로그램 - BOB</a> 14기</strong>
         <span className="text-muted-foreground float-end text-right">2025.8 - 현재<br></br>한국정보기술연구원</span><br/></p>
         보안제품개발트랙
         
-        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">차세대 보안리더 양성 프로그램 - 화이트햇 스쿨</a>2기</strong>
+        <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">차세대 보안리더 양성 프로그램 - 화이트햇 스쿨</a> 2기</strong>
         <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>한국정보기술연구원</span><br/></p>
         <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
         <ul>
