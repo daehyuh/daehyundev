@@ -42,7 +42,9 @@ h3{
     /* 밑줄  */
     border-bottom: 1px solid hsl(var(--muted-foreground));
     /* 중간정ㄴ렬 */
-    text-align: center;
+    text-align: left;
+    margin-top: 3rem;
+    margin-bottom: 1.2rem;
 }
 
 p{
