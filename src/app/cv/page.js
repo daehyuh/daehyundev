@@ -22,12 +22,13 @@ export default function Cv() {
       
         <h3>경력</h3>
 
-        <p><strong><a href="https://www.kitribob.kr/">차세대 보안 리더 양성 프로그램 - Best of the Best</a> 14기</strong>
-        
-        <span className="text-muted-foreground float-end text-right">2025.8 - 현재<br></br>한국정보기술연구원</span><br/></p>
 
+        <p><strong><a href="https://www.kitribob.kr/"></a>차세대 보안리더 양성 프로그램 14기</strong>
+        <span className="text-muted-foreground float-end text-right">2025.8 - 현재<br></br>한국정보기술연구원</span><br/></p>
+        보안제품개발트랙
+        
         <p><strong><a href="https://whitehatschool.kr/home/kor/main.do">화이트햇 스쿨</a> 2기</strong>
-        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>과학기술정보통신부</span><br/></p>
+        <span className="text-muted-foreground float-end text-right">2024.4 - 2024.11<br></br>한국정보기술연구원</span><br/></p>
         <a href="https://github.com/Grape-Office">포도청</a> - 한국형 USER NAME OSINT 오픈소스 개발 <sup><a href="https://github.com/Grape-Office">GitHub</a></sup>
         <ul>
         <li>프로젝트 포도청 Project Manager, 한국 커뮤니티 사이트에서 USER NAME 기반으로 데이터를 수집하고 분석하는 OSINT 오픈소스 개발
