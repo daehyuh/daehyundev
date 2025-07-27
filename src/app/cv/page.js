@@ -16,7 +16,7 @@ export default function Cv() {
         <br/>
         <span className="text-muted-foreground">SW인재전형 입학</span></p>
         <p><strong><a href="https://hanyang.sen.hs.kr/">한양공업고등학교</a> 컴퓨터네트워크과 졸업</strong>
-        <span className="text-muted-foreground float-end text-right">2019.3 - 2023.1<br></br>서울 중구</span>
+        <span className="text-muted-foreground float-end text-right">2020.3 - 2023.1<br></br>서울 중구</span>
         <br/>
         <span className="text-muted-foreground">특별전형 입학, 공로 졸업</span></p>
       
